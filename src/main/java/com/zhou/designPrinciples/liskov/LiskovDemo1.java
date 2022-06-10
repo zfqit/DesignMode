@@ -20,7 +20,7 @@ public class LiskovDemo1 {
         // 解决方案:
         // 通用的方案:抽出一个通用的基类, 把原有的继承关系去掉,采用依赖.聚合.组合关系代替
         // 里氏替换原则解决方案: 不要重写父类的方法,新增自己的方法
-        B b = new B();
+         B b = new B();
         System.out.println(b.fun2(10, 2));
     }
 }
