@@ -1,8 +1,8 @@
-package com.zhou.factory.abstractfactorydemo3.order;
+package com.zhou.factory.methodfactorydemo3.order;
 
-import com.zhou.factory.abstractfactorydemo3.pizza.BJCheessPizza;
-import com.zhou.factory.abstractfactorydemo3.pizza.BJGreekPizza;
-import com.zhou.factory.abstractfactorydemo3.pizza.Pizza;
+import com.zhou.factory.methodfactorydemo3.pizza.BJCheessPizza;
+import com.zhou.factory.methodfactorydemo3.pizza.BJGreekPizza;
+import com.zhou.factory.methodfactorydemo3.pizza.Pizza;
 
 /**
  * @author zhoufuqi

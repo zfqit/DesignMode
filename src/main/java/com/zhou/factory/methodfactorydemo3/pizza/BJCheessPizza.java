@@ -1,4 +1,4 @@
-package com.zhou.factory.abstractfactorydemo3.pizza;
+package com.zhou.factory.methodfactorydemo3.pizza;
 
 /**
  * @author zhoufuqi

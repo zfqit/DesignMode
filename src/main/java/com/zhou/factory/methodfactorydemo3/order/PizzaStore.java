@@ -1,4 +1,4 @@
-package com.zhou.factory.abstractfactorydemo3.order;
+package com.zhou.factory.methodfactorydemo3.order;
 
 
 /**

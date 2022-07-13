@@ -1,6 +1,6 @@
-package com.zhou.factory.abstractfactorydemo3.order;
+package com.zhou.factory.methodfactorydemo3.order;
 
-import com.zhou.factory.abstractfactorydemo3.pizza.Pizza;
+import com.zhou.factory.methodfactorydemo3.pizza.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,6 +12,8 @@ import java.io.InputStreamReader;
  * 如: 北京的披萨和伦敦的披萨,他的用料和做法有些不同
  * 通过工厂方法模式把创建对象的权限下放到具体抽象中(如通过继承抽奖类中的方法)
  * 从而达到不同地区的披萨创建的产品不同的问题
+ *
+ * 缺点: 每一种产品都需要创建对应的工厂类来生成对应产品
  *
  * @author zhoufuqi
  * @date 2022/7/13
