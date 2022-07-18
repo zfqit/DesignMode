@@ -1,4 +1,4 @@
-package com.zhou.bulider.variety;
+package com.zhou.builder.variety;
 
 /**
  * @author zhoufuqi

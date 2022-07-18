@@ -1,4 +1,4 @@
-package com.zhou.bulider.variety;
+package com.zhou.builder.variety;
 
 /**
  * 建造者模式变种,通过静态内部类来创建不同用户

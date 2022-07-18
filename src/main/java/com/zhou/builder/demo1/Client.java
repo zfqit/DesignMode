@@ -1,4 +1,4 @@
-package com.zhou.bulider.demo1;
+package com.zhou.builder.demo1;
 
 /**
  * 没使用建造者模式创建不用用户的方式,因为每个用户的姓名年龄都可能不一样
