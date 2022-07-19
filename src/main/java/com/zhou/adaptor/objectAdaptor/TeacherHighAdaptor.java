@@ -8,6 +8,9 @@ package com.zhou.adaptor.objectAdaptor;
  */
 public class TeacherHighAdaptor implements TeacherAdaptor {
 
+    /**
+     * 通过聚合的方式来实现适配
+     */
     private StudentType studentType;
 
     public TeacherHighAdaptor(StudentType studentType) {
