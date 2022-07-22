@@ -1,6 +1,7 @@
 package com.zhou.adaptor.interfaceAdaptor;
 
 /**
+ * 实现适配器接口的抽象类
  * @author zhoufuqi
  * @date 2022/7/19 19:54
  */

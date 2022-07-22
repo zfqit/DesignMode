@@ -1,6 +1,7 @@
 package com.zhou.adaptor.interfaceAdaptor;
 
 /**
+ * 适配器接口
  * @author zhou
  */
 public interface InterfaceAdaptor {

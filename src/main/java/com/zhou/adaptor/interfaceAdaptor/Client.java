@@ -1,6 +1,7 @@
 package com.zhou.adaptor.interfaceAdaptor;
 
 /**
+ * 测试端
  * 接口适配器模式,通过抽象类的实现接口方法的默认实现,来为调用方,自己覆盖自己需要的接口,而不需要重写所有的接口
  *
  * @author zhoufuqi
