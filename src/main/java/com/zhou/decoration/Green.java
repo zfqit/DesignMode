@@ -6,7 +6,7 @@ package com.zhou.decoration;
  * @author zhoufuqi
  * @date 2022/9/15
  */
-public class Green extends Calculate {
+public class Green extends Color {
 
     public Green(Brush brush) {
         super(brush);
